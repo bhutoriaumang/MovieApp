@@ -1,6 +1,17 @@
-# movieapp
+# MovieApp
 
-A new Flutter project.
+#### An app to show the details of all the movies released with their ratings and reviews.
+
+## Screenshots of app
+
+<p>
+
+
+<img src="https://user-images.githubusercontent.com/64299262/145871194-bb75803f-6992-4195-b5ec-20fa4436c266.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/64299262/145871366-e731e9f7-a3f7-42ed-a6f9-e69e2ddadebe.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/64299262/145871452-e599b216-7162-4b68-bf42-30c99ab87ed4.png" width="300" height="600">
+
+</p>
 
 ## Getting Started
 
